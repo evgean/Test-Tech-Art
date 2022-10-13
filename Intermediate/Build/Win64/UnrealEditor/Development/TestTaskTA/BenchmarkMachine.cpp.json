@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\data\\ue4\\test-tech-art\\source\\testtaskta\\benchmarkmachine.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\data\\ue4\\test-tech-art\\intermediate\\build\\win64\\testtasktaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\data\\ue4\\test-tech-art\\intermediate\\build\\win64\\unrealeditor\\development\\testtaskta\\definitions.testtaskta.h",
+            "c:\\data\\ue4\\test-tech-art\\source\\testtaskta\\benchmarkmachine.h",
+            "c:\\data\\ue4\\test-tech-art\\intermediate\\build\\win64\\unrealeditor\\inc\\testtaskta\\benchmarkmachine.generated.h",
+            "c:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\unreal\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\unreal\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

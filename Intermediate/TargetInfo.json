@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestTaskTA",
+			"Path": "C:\\Data\\UE4\\Test-Tech-Art\\Source\\TestTaskTA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestTaskTAEditor",
+			"Path": "C:\\Data\\UE4\\Test-Tech-Art\\Source\\TestTaskTAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

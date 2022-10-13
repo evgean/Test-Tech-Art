@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Data\\UE4\\Test-Tech-Art\\Source\\TestTaskTA\\TestTaskTA.Build.cs",
+		"C:\\Data\\UE4\\Test-Tech-Art\\Source\\TestTaskTA.Target.cs",
+		"C:\\Data\\UE4\\Test-Tech-Art\\Source\\TestTaskTAEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}

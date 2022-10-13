@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestTaskTA.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Data\UE4\Test-Tech-Art\Intermediate\Build\Win64\TestTaskTAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Data\UE4\Test-Tech-Art\Intermediate\Build\Win64\UnrealEditor\Development\TestTaskTA\TestTaskTA.cpp.obj"
+"C:\Data\UE4\Test-Tech-Art\Intermediate\Build\Win64\UnrealEditor\Development\TestTaskTA\Default.rc2.res"
+/OUT:"C:\Data\UE4\Test-Tech-Art\Intermediate\Build\Win64\UnrealEditor\Development\TestTaskTA\UnrealEditor-TestTaskTA.lib"

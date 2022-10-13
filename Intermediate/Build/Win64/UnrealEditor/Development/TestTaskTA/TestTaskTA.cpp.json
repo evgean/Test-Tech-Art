@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\data\\ue4\\test-tech-art\\source\\testtaskta\\testtaskta.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\data\\ue4\\test-tech-art\\intermediate\\build\\win64\\testtasktaeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\data\\ue4\\test-tech-art\\intermediate\\build\\win64\\unrealeditor\\development\\testtaskta\\definitions.testtaskta.h",
+            "c:\\data\\ue4\\test-tech-art\\source\\testtaskta\\testtaskta.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
